@@ -2,6 +2,17 @@ import os
 import sys
 from pathlib import Path
 
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get OpenAI API key from environment variables
+openai_api_key = os.getenv('OPENAI_API_KEY')
+if not openai_api_key:
+    raise ValueError("OPENAI_API_KEY not found in environment variables")
+
+
 from browser_use.agent.views import ActionResult
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
