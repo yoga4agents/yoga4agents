@@ -69,3 +69,4 @@ INFO     [agent] 📄 Result: The user's email address is agentsyoga@gmail.com. 
 INFO     [agent] ✅ Task completed successfully
 INFO     [agent] Created GIF at agent_history.gif
 ```
+
