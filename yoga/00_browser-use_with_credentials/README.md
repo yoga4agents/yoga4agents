@@ -48,7 +48,7 @@ INFO     [agent] 🛠️  Action 1/1: {"switch_tab":{"page_id":0}}
 INFO     [controller] 🔄  Switched to tab 0
 INFO     [agent] 📍 Step 2
 INFO     [agent] 👍 Eval: Success - Switched to the Google Docs tab as intended.
-INFO     [agent] 🧠 Memory: The user's email address is agentsyoga@gmail.com. Need to create a blank document to write the haiku.
+INFO     [agent] 🧠 Memory: The user's email address is agentsyoga[at]gmail[dot]com. Need to create a blank document to write the haiku.
 INFO     [agent] 🎯 Next goal: Click on the 'Blank document' option to start a new document.
 INFO     [agent] 🛠️  Action 1/1: {"click_element":{"index":8}}
 INFO     [controller] 🖱️  Clicked button with index 8: 
