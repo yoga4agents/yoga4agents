@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yoga4agents
+- 👀 I’m interested in helping AI agents help all beings, in particular humans
+- 🌱 I’m currently learning how to write tests before trying to write code
+- 💞️ I’m looking to collaborate on making AI agents more effective in their work
